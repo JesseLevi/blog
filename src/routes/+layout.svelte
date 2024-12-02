@@ -1,5 +1,5 @@
 <script>
-	import Header from './Header.svelte';
+	import Header from '../components/Counter.svelte';
 	import '../app.css';
 
 	let { children } = $props();
